@@ -12,7 +12,8 @@
     "phantomjs": "~1.9.17",
     "nodegit": "~0.4.1",
     "phantom": "~0.7.2",
-    "q": "~1.4.1"
+    "q": "~1.4.1",
+    "optimist": "~0.6.1"
   },
   "devDependencies": {}
 }
